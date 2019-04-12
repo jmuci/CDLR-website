@@ -1,16 +1,16 @@
-- name: David
-  title: 4 times at BM
-  testimonial: "As the most senior person in the camp I was named \"the Chaman\" by my camp mates. It has been quite a journey guiding virgins through the darkests times to the clearests sunrises"
+- name: Shaman
+  title: 5th-time burner
+  testimonial: "As the most senior person in the camp I was named \"Shaman\" by my camp mates. It has been quite a journey guiding virgins through the darkests nights to the clearests sunrises."
   image: img/david.jpg
-- name: Pedro
-  title: 3 times at BM
-  testimonial: "Burning Man  is the ultimate rabbit hole. You should actually feel bad about \"reaching your goals\", because it means you missed out on opportunities to branch out, to discover new things out there, to meet new, amazing people."
+- name: Mandarinas
+  title: 4th-time burner
+  testimonial: "Burning Man is the ultimate rabbit hole. You should actually feel bad about reaching the place you wanted to go – it means you missed out on opportunities to branch out, to discover new things out there, to meet new, amazing people."
   image: img/pedro.jpg
-- name: Graciela
-  title: 1 time at BM
-  testimonial: "Last year was my first Burning Man I attended. It was a magical experience in which I got to met myself and experience a world far from the one we use to live in our dayly basis. See you next year at the playa"
+- name: Graci
+  title: 2nd-time burner
+  testimonial: "Last year was the first Burning Man I attended. It was a magical experience in which I got to know myself and experience a world apart from the one we use to live in our dayly basis. See you next year at the playa!"
   image: img/graci.jpg
-- name: Alberto
-  title: 3 times at BM
-  testimonial: "Expect the unexpected. Expect nothing. Expect an orange sky and a white sand. Expect your expectations are far beyond your reach. Expect nothing and have it all"
+- name: Pachamama
+  title: 4th-time burner
+  testimonial: "Expect the unexpected. Expect nothing. Expect an orange sky and a white sand. Expect your expectations are far beyond your reach. Expect nothing and have it all."
   image: img/alberto.jpg
