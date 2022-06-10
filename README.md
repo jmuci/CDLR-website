@@ -1,3 +1,19 @@
+Instructions to locally run CDLR in ubuntu 16: 
+
+
+curl -sSL https://rvm.io/mpapis.asc | sudo gpg2 --import -
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+
+//For CDLR
+/usr/local/rvm/bin/rvm install 2.5.6
+/usr/local/rvm/wrappers/ruby-2.5.6/gem install bundler -v 2.0.2
+/usr/local/rvm/wrappers/ruby-2.5.6/bundle _2.0.2_ install 
+/usr/local/rvm/wrappers/ruby-2.5.6/gem install jekyll -v 3.8.7
+/usr/local/rvm/wrappers/ruby-2.5.6/jekyll server
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
 
