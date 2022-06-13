@@ -1,4 +1,6 @@
-Instructions to locally run CDLR in ubuntu 16: 
+## Running the website locally
+
+### Run CDLR in ubuntu 16: 
 
 
 curl -sSL https://rvm.io/mpapis.asc | sudo gpg2 --import -
@@ -13,6 +15,18 @@ curl -sSL https://rvm.io/mpapis.asc | sudo gpg2 --import -
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+### Run CLDR in Mac OS
+
+Follow the Set Up steps from below this README to get all the dependencies for Jekyll and Airspace.
+After that, go to the root folder of the CLDR web repo and run: 
+
+`gem install jekyll bundler`
+
+`bundle exec jekyll serve` -> you will see in the comment the localhost address were the site is being served.
+
+
+Src: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
 
 # _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
